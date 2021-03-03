@@ -14,7 +14,7 @@
     "http-errors": "~1.6.3",
     "morgan": "~1.9.1",
     "object-hash": "^2.0.3",
-    "pug": "2.0.0-beta11",
+    "pug": "3.0.1",
     "sparql-http-client": "^2.1.0"
   }
 }
